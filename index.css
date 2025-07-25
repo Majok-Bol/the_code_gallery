@@ -175,14 +175,16 @@ footer {
 }
 
 #clearDataBtn {
-    background-color: red;
-    padding: 5px;
+    padding:8px;
+      width: 150px; 
+      background-color: red;
     cursor: pointer;
 }
 .delete-btn{
     padding:8px;
       width: 150px; 
       background-color: red;
+      cursor: pointer;
 
 }
 @media only screen and (max-width: 390px)  {
