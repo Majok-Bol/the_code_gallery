@@ -179,7 +179,12 @@ footer {
     padding: 5px;
     cursor: pointer;
 }
+.delete-btn{
+    padding:8px;
+      width: 150px; 
+      background-color: red;
 
+}
 @media only screen and (max-width: 390px)  {
     nav {
         display: flex;
