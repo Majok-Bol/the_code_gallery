@@ -175,13 +175,13 @@ footer {
 }
 
 #clearDataBtn {
-    padding:8px;
+    padding:12px;
       width: 150px; 
       background-color: red;
     cursor: pointer;
 }
 .delete-btn{
-    padding:8px;
+    padding:12px;
       width: 150px; 
       background-color: red;
       cursor: pointer;
